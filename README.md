@@ -1,0 +1,1 @@
+# magninsight-assets
